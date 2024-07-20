@@ -10,7 +10,7 @@ Backend de um aplicativo de lista de tarefas construído com Angular para fronte
 
 ## Installation
 - Download or clone repository.
-- Run ```python manage.py runserver``` in the To Do List - Angular - Backend directory to make the API work
+- Run ```python manage.py runserver``` in the directory to make the API work
 
 ## Usage
 - Navigate to [http://127.0.0.1:8000/api/todos/](http://127.0.0.1:8000/api/todos/) to access To Do API
